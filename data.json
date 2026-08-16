@@ -1,0 +1,397 @@
+{
+  "profile": {
+    "name": "SABESH MOORTHY L",
+    "role": "Computer Science & Engineering Student",
+    "degree": "BE Computer Science & Engineering",
+    "bio": "An undergraduate at Sri Krishna College of Technology (Batch 2023 - 2027) — passionate about building meaningful digital products.",
+    "email": "cseskct247@gmail.com",
+    "github": "https://github.com/SABESHMOORTHY",
+    "linkedin": "https://www.linkedin.com/in/sabesh-moorthy-30b775290/",
+    "phone": "+91 8870972268",
+    "stats": [
+      {
+        "value": "8.22",
+        "label": "CGPA"
+      },
+      {
+        "value": "4",
+        "label": "Projects"
+      },
+      {
+        "value": "1",
+        "label": "Internships"
+      },
+      {
+        "value": "2027",
+        "label": "Graduating"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "title": "Hero",
+      "isActive": true
+    },
+    {
+      "id": "about",
+      "title": "About Me",
+      "isActive": true
+    },
+    {
+      "id": "skills",
+      "title": "Skills",
+      "isActive": true
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "isActive": true
+    },
+    {
+      "id": "experience",
+      "title": "Experience",
+      "isActive": true
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "isActive": true
+    },
+    {
+      "id": "achievements",
+      "title": "Achievements",
+      "isActive": true
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "isActive": true
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "isActive": true
+    }
+  ],
+  "about": {
+    "quote": "\"I believe the best software is quiet — it solves a problem so naturally that the user never notices it working.\"",
+    "paragraphs": [
+      "I'm Sabesh Moorthy L, a Computer Science undergraduate at Sri Krishna College of Technology. My journey into programming began with curious weekend experiments and has grown into a genuine passion for building products.",
+      "I am exploring various technologies and eager to learn about full-stack development and systems design."
+    ],
+    "quickFacts": [
+      {
+        "label": "Name",
+        "value": "Sabesh Moorthy L"
+      },
+      {
+        "label": "Degree",
+        "value": "BE CSE"
+      },
+      {
+        "label": "University",
+        "value": "Sri Krishna College of Technology"
+      },
+      {
+        "label": "Batch",
+        "value": "2023 - 2027"
+      },
+      {
+        "label": "Status",
+        "value": "Student",
+        "highlight": true
+      }
+    ],
+    "interests": [
+      "Full-Stack Development",
+      "Machine Learning",
+      "Open Source",
+      "Systems Design",
+      "Competitive Programming"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "Java",
+        "C",
+        "JavaScript",
+        "TypeScript",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        "React.js",
+        "Next.js",
+        "HTML5 & CSS3",
+        "Tailwind CSS",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js & Express",
+        "Flask",
+        "FastAPI",
+        "REST API Design",
+        "Authentication / JWT"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL",
+        "Firebase"
+      ]
+    },
+    {
+      "category": "AI & Machine Learning",
+      "items": [
+        "TensorFlow & Keras",
+        "Scikit-learn",
+        "Pandas & NumPy",
+        "OpenCV",
+        "NLP Basics"
+      ]
+    },
+    {
+      "category": "Tools & DevOps",
+      "items": [
+        "Git & GitHub",
+        "Docker",
+        "Linux",
+        "Postman",
+        "VS Code"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "01",
+      "typeBadge": "Enterprise Full-Stack",
+      "title": "Invenza",
+      "description": "A high-performance Inventory Management System designed to simplify stock tracking, order handling, and warehouse capacity analytics in real-time. Features live database synchronization, low-stock notifications, and full audit logging.",
+      "stack": [
+        "React",
+        "Spring Boot",
+        "Java",
+        "PostgreSQL",
+        "REST API"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "https://github.com/SABESHMOORTHY/Inventory_Management.git"
+        }
+      ],
+      "image": "/invenza_dashboard.png"
+    },
+    {
+      "id": "02",
+      "typeBadge": "Web Application",
+      "title": "Swift Bite",
+      "description": "An online food delivery platform providing a seamless dining experience from top-rated local favorites to massive family deals. Features curated daily menus and top-rated local eats.",
+      "stack": [
+        "MERN Stack"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "https://github.com/SABESHMOORTHY/Food-Ordering-Application.git"
+        }
+      ],
+      "image": "/swiftbite.png"
+    },
+    {
+      "id": "03",
+      "typeBadge": "AI · Full-Stack",
+      "title": "LeafIQ",
+      "description": "A premium, full-stack plant disease diagnostics web application that leverages a fine-tuned ResNet-50 CNN to identify leaf pathologies (e.g. blights, rusts) and generate organic remediation plans. Features dual-preprocessing (RGB/Grayscale), interactive drag-and-drop uploading, secure authentication, and low-confidence safeguards.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Python",
+        "Flask",
+        "PyTorch"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "https://github.com/SABESHMOORTHY/LeafIQ.git"
+        }
+      ],
+      "image": "/leafiq.png"
+    },
+    {
+      "id": "04",
+      "typeBadge": "Internship Project · Full-Stack",
+      "title": "EventHub",
+      "description": "A comprehensive event management application built during my internship at Virtue Sense, Coimbatore. EventHub enables users to discover, browse, and book events across categories such as Classical Performances, Cultural Fairs, Theater Productions, Music Gigs, Conferences, and more. Features an intuitive home dashboard with a hero banner, category grid, user authentication, calendar view, ticket management, and real-time alerts.",
+      "stack": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "REST API",
+        "JWT"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "https://github.com/SABESHMOORTHY/Event_management"
+        }
+      ],
+      "image": "/eventhub.png"
+    },
+    {
+      "id": "05",
+      "typeBadge": "AI · Machine Learning",
+      "title": "MediScan AI",
+      "description": "A medical image classification system for early-stage pneumonia detection from chest X-rays using a convolutional neural network. Achieved 94% accuracy and deployed via a Flask REST API with a React frontend.",
+      "stack": [
+        "Python",
+        "TensorFlow",
+        "OpenCV",
+        "Flask",
+        "React"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo →",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "typeBadge": "Full-Stack Web",
+      "title": "ShopFlow",
+      "description": "A full-featured e-commerce platform with user authentication, cart management, Stripe payment integration, and an analytics-rich admin dashboard. Supports multiple seller accounts.",
+      "stack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Stripe",
+        "JWT"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo →",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "typeBadge": "IoT · Data Science",
+      "title": "AgriSense",
+      "description": "A smart farming dashboard that aggregates real-time sensor data from Raspberry Pi nodes and provides ML-powered crop health predictions based on soil moisture, temperature, and humidity trends.",
+      "stack": [
+        "Python",
+        "Raspberry Pi",
+        "Scikit-learn",
+        "Next.js"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "typeBadge": "Real-Time App",
+      "title": "ChatSphere",
+      "description": "A real-time group chat application with persistent message rooms, file sharing, and end-to-end encryption. Stress-tested to handle 500+ concurrent WebSocket connections reliably.",
+      "stack": [
+        "Socket.io",
+        "Node.js",
+        "React",
+        "PostgreSQL"
+      ],
+      "links": [
+        {
+          "label": "GitHub →",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo →",
+          "url": "#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Virtue Sense, Coimbatore",
+      "role": "Full Stack Intern",
+      "period": "1st June – 14th June 2025",
+      "description": "Designed and developed EventHub — a full-stack event management application — as the primary deliverable of this internship. Built the React-based frontend with category browsing, a hero dashboard, calendar view, and ticket management. Engineered the Node.js/Express backend with JWT authentication and MongoDB integration. Gained hands-on experience working in a professional product team at Virtue Sense, Coimbatore.",
+      "stack": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JWT"
+      ],
+      "github": "https://github.com/SABESHMOORTHY/Event_management"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Cloud Practitioner Essentials",
+      "issuer": "Amazon Web Services · 2025",
+      "icon": "☁️",
+      "image": "/certs/aws-cloud-practitioner.png"
+    },
+    {
+      "title": "Machine Learning Specialization",
+      "issuer": "Stanford University / Coursera · 2023",
+      "icon": "🎓"
+    },
+    {
+      "title": "Meta Front-End Developer",
+      "issuer": "Meta / Coursera · 2023",
+      "icon": "💻"
+    },
+    {
+      "title": "Python for Data Science",
+      "issuer": "IBM / Coursera · 2022",
+      "icon": "🐍"
+    }
+  ],
+  "education": [
+    {
+      "school": "Sri Krishna College of Technology",
+      "degree": "BE Computer Science and Engineering",
+      "period": "2023 – 2027",
+      "result": "8.22 CGPA",
+      "icon": "🎓"
+    },
+    {
+      "school": "Mahatma Montessori Matriculation Higher Secondary School",
+      "degree": "Higher Secondary",
+      "period": "",
+      "result": "",
+      "icon": "🏫"
+    }
+  ]
+}
